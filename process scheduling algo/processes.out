@@ -1,0 +1,18 @@
+2 process
+Using Round-Robin
+Quantum 2
+
+Time 0 P2 arrived
+Time 0: P2 selected (burst 55)
+Time 2: P2 selected (burst 53)
+Time 3 P1 arrived
+Time 4: P1 selected (burst 15)
+Time 6: P2 selected (burst 51)
+Time 8: P1 selected (burst 13)
+Time 10: P2 selected (burst 49)
+Time 12: P1 selected (burst 11)
+Time 14: P2 selected (burst 47)
+Finished at time 15
+
+P1 wait 5 turnaround 20
+P2 wait 6 turnaround 61
